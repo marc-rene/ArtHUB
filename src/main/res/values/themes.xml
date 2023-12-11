@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ArtHUB" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- light theme -->
+        <item name="colorPrimary">      @color/colour_6     </item>
+        <item name="colorSecondary">    @color/colour_2     </item>
+        <item name="colorTertiary">     @color/colour_1     </item>
+    </style>
+
+    <style name="Theme.ArtHUB" parent="Base.Theme.ArtHUB" />
+</resources>
